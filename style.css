@@ -141,7 +141,7 @@ main{
 }
 .edu-background2{
     color: black;
-    margin-top: 70px;
+    margin-top: 50px;
     margin-left: 320px;
     border: 3px outset black;
     background-image: linear-gradient(to top, gray, white);
@@ -151,8 +151,8 @@ main{
 }
 .edu-background3{
     color: black;
-    margin-top: 70px;
-    margin-left: 320px;
+    margin-top: 50px;
+    margin-left: 640px;
     border: 3px outset black;
     background-image: linear-gradient(to top, gray, white);
     box-shadow: 5px 5px 1px 1px black;
