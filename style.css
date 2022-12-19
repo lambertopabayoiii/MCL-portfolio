@@ -123,7 +123,7 @@ main{
     color: white;
 }
 .edu-background{
-    margin-left: 70px;
+    margin-left: 50px;
     color: white;
     text-align: center;
     font-size: 15px;
@@ -136,7 +136,7 @@ main{
     background-image: linear-gradient(to top, gray, white);
     box-shadow: 5px 5px 1px 1px black;
     height: 300px;
-    width: 270px;
+    width: 300px;
 
 }
 .edu-background2{
@@ -147,17 +147,17 @@ main{
     background-image: linear-gradient(to top, gray, white);
     box-shadow: 5px 5px 1px 1px black;
     height: 300px;
-    width: 270px;
+    width: 300px;
 }
 .edu-background3{
     color: black;
     margin-top: 50px;
-    margin-left: 200px;
+    margin-left: 300px;
     border: 3px outset black;
     background-image: linear-gradient(to top, gray, white);
     box-shadow: 5px 5px 1px 1px black;
     height: 300px;
-    width: 270px;
+    width: 300px;
 }
 .f-background{
     border: 3px outset black;
