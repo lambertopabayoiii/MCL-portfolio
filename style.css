@@ -130,7 +130,8 @@ main{
 }
 .edu-background1{
     color: black;
-    margin-left: 0;
+    margin-top: 20px;
+    margin-left: 100px;
     border: 3px outset black;
     background-image: linear-gradient(to top, gray, white);
     box-shadow: 5px 5px 1px 1px black;
@@ -140,7 +141,8 @@ main{
 }
 .edu-background2{
     color: black;
-    margin-left: 30px;
+    margin-top: 20px;
+    margin-left: 100px;
     border: 3px outset black;
     background-image: linear-gradient(to top, gray, white);
     box-shadow: 5px 5px 1px 1px black;
@@ -149,12 +151,13 @@ main{
 }
 .edu-background3{
     color: black;
-    margin-left: 300px;
+    margin-top: 20px;
+    margin-left: 100px;
     border: 3px outset black;
     background-image: linear-gradient(to top, gray, white);
     box-shadow: 5px 5px 1px 1px black;
     height: 200px;
-    width: 3200px;
+    width: 200px;
 }
 .f-background{
     border: 3px outset black;
