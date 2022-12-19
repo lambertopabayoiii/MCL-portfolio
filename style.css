@@ -124,6 +124,7 @@ main{
 }
 .edu-background{
     margin-left: 50px;
+    align-items: center;
     color: white;
     text-align: center;
     font-size: 15px;
